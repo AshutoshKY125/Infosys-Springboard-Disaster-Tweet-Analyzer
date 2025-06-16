@@ -46,6 +46,12 @@ Throughout the internship, I worked on:
 
 [Documentation](https://vitbhopalacin-my.sharepoint.com/:w:/g/personal/ashutoshkumaryadav2022_vitbhopal_ac_in/EQc-FVKrwIdGlMnAt8JVB50BVP7K9xu39HqL86zTXwZc4Q?e=bay0WH)
 
+## 🔗 Hosted Website
+
+You can try the live hosted version here:  
+👉 [Disaster Tweet Analyzer - Live](https://disaster-tweet-analyzer.onrender.com/)
+
+
 
 ## 🛠️ Technologies Used
 
@@ -117,14 +123,16 @@ The model files (`lr_model.pkl`, `vectorizer.pkl`, `scaler.pkl`, `rf_pipeline_mo
 
 
     
-## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+## 📸 Demo Screenshot
 
-## 🔗 Live Demo
+Here is a demo of the Disaster Tweet Analyzer in action:
 
-You can try the live hosted version here:  
-👉 [Disaster Tweet Analyzer - Live](https://disaster-tweet-analyzer.onrender.com/)
+![Disaster Tweet Analyzer Demo](/GIFS/Prediction-1.png)
+![Prediction and Tarini bot](/GIFS/Prediction-2 and Tarini.png)
+![Time Line of Development page](/GIFS/Time Line.png)
+![Landing Page](/GIFS/Front Page.png)
+![About us page](/GIFS/About Us.png)
 
 
 ## 🙏 Acknowledgements
