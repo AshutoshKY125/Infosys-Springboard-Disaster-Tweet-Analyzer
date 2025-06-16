@@ -127,10 +127,9 @@ The model files (`lr_model.pkl`, `vectorizer.pkl`, `scaler.pkl`, `rf_pipeline_mo
 ## 📸 Demo Screenshot
 
 Here is a demo of the Disaster Tweet Analyzer in action:
-
+![Time Line of Development page](/GIFS/Time_Line.png)
 ![Disaster Tweet Analyzer Demo](/GIFS/Prediction-1.png)
 ![Prediction and Tarini bot](/GIFS/Prediction-2_and_Tarini.png)
-![Time Line of Development page](/GIFS/Time_Line.png)
 ![Landing Page](/GIFS/Front_Page.png)
 ![About us page](/GIFS/About_Us.png)
 
